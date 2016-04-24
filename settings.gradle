@@ -1,0 +1,5 @@
+include ':picasso', ':easydialog', ':android-weak-handler', ':qxapp', ':qxcommon', ':ishowchat', ':ishowcocos2dx', ':DanmakuFlameMaster', ':baselib'
+include ':alipay_sdk_pro'
+include ':asynchttp'
+include ':pulltorefreshlibrary'
+include ':fancycoverflow'
