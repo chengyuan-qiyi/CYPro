@@ -3,3 +3,5 @@ include ':alipay_sdk_pro'
 include ':asynchttp'
 include ':pulltorefreshlibrary'
 include ':fancycoverflow'
+
+include ‘lib’
