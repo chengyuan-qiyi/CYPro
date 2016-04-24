@@ -10,3 +10,8 @@ include ‘lib’
 start develop login
 …
 end
+
+start develop register
+...
+end
+
